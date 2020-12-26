@@ -1,2 +1,2 @@
-# Minecraft Spigot rpgplugin
+# Minecraft Spigot RPG Plugin
 Vampire's RPG plugin- 
